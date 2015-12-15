@@ -5,6 +5,9 @@ web/modules/contrib
 web/themes/contrib
 web/profiles/contrib
 
+!.gitkeep
+/config
+
 # Ignore Drupal's file directory
 web/sites/default/files
 
